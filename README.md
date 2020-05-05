@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/rafaelmtorres/rafaelmtorres.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a senior software engineer with 14+ years of experience in different areas of software development. I have experience leading small to medium teams, acting as a team lead and development manager. My work experience is mostly based on developing and maintaining backend applications, web based and distributed systems, data integration platforms using big data and ETL technologies. I have also over 10 years of experience working with different agile methodologies such as Scrum and Kanban.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Areas of interest:** big data, distributed systems, microservices, software architecture, API's design, leadership, IT management.
 
-### Markdown
+## Professional experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Flipp - Toronto 🇨🇦 (Since Oct19) 
 
-# Header 1
-## Header 2
-### Header 3
+### Awin - Berlin 🇩🇪 (From Feb18 - Sep19)
 
-- Bulleted
-- List
+### ADP - Porto Alegre 🇧🇷(From Feb07 - Jan18)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Get in touch
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelmtorres/rafaelmtorres.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+rafaelmtorres@gmail.com
