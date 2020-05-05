@@ -9,7 +9,15 @@ I'm a senior software engineer with 14+ years of experience in different areas o
 
 ### Flipp - Toronto 🇨🇦 (Since Oct19) 
 
+At Flipp I'm part of one of the company app teams, designing and creating solutions to power our application on the backend side. We create API's using Golang and Rails(Ruby) but also producer-consumer applications using Scala, Kafka and Kafka Streams.   
+
+Tech stack used: Golang, Ruby, Scala, Rails, Kafka, Kafka Streams, AWS, DynamoDB, MySQL 
+
 ### Awin - Berlin 🇩🇪 (From Feb18 - Sep19)
+
+At Awin I was part of a team responsible for building the company's realtime and historical data reports for publishers and advertisers. The main focus of the team was to collect real time data using technologies such as Kafka, Apache Spark, Hadoop and store in distributed databases. We also provide internal REST API's using Java, Kotlin and Spring, to other parts of the platform so they can collect and present data to our clients.
+
+Tech stack used: Java, Kotlin, Spring, Docker, Kafka, Apache Spark, HBase, HDFS, Elasticsearch
 
 ### ADP - Porto Alegre 🇧🇷(From Feb07 - Jan18)
 
