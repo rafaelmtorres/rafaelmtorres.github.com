@@ -1,4 +1,4 @@
-## About me
+## Rafael Martins Torres 
 
 I'm a senior software engineer with 14+ years of experience in different areas of software development. I have experience leading small to medium teams, acting as a team lead and development manager. My work experience is mainly based on developing and maintaining backend applications, web-based and distributed systems, data integration platforms using big data and ETL technologies. I also have over ten years of experience working with Agile methodologies such as Scrum and Kanban.
 
